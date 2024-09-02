@@ -6,3 +6,7 @@ This is a private repository where I'll post all the projects that I make while 
 ## 1. Button Hover Effect
 
 The first file uploaded on this github and contains the hover effect I created after learning transitions.
+
+## 2. Pricing Panel Project
+
+Created a basic pricing menu and implemented Flexbox which is responsive
