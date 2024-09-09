@@ -11,6 +11,9 @@ The first file uploaded on this github and contains the hover effect I created a
 
 Created a basic pricing menu and implemented Flexbox which is responsive
 
+![image](https://github.com/user-attachments/assets/7d008cda-a39d-4eff-9ac7-81bb24a3ee55)
+
+
 ## 3.Glassmorphism
 
 Created a basic login form in glassmorphism style.
