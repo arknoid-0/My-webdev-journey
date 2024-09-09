@@ -15,5 +15,6 @@ Created a basic pricing menu and implemented Flexbox which is responsive
 
 Created a basic login form in glassmorphism style.
 
-![image](https://github.com/user-attachments/assets/2e103fd3-cb56-4c2d-9db9-d754140f6969)
+![image](https://github.com/user-attachments/assets/c8d6c794-2fb9-4a90-8efb-149814baa29a)
+
 
